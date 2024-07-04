@@ -48,7 +48,7 @@ export const AboutSm = () => {
 						component="p"
 						variant="subtitle1"
 						sx={{
-							fontSize: '1rem',
+							fontSize: '.8rem',
 							color: '#828282',
 							fontWeight: 500,
 							alignSelf: 'flex-start',
