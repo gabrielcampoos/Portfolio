@@ -4,6 +4,7 @@ import Saniport from '../../../../assets/images/saniport.png';
 import Douglas from '../../../../assets/images/douglas.png';
 import Target from '../../../../assets/images/target.png';
 import Olatelecom from '../../../../assets/images/ola-telecom.png';
+import Products from '../../../../assets/images/Products.png';
 import { useRef } from 'react';
 import { useInView } from 'framer-motion';
 import { ProjectsSm } from './ProjectsSm';
@@ -173,6 +174,31 @@ export const Projects = () => {
 										<CardProject
 											backgroundCard={Olatelecom}
 											text="Olá Telecom"
+										/>
+									</a>
+								</Section>
+							</Grid>
+						</Box>
+
+						<Box
+							sx={{
+								width: '100%',
+								display: 'flex',
+								justifyContent: 'flex-start',
+								alignItems: 'center',
+								px: 10,
+								mt: 3,
+							}}
+						>
+							<Grid item xs={12} sm={12} md={4}>
+								<Section>
+									<a
+										href="https://produto-two.vercel.app/"
+										style={{ textDecoration: 'none' }}
+									>
+										<CardProject
+											backgroundCard={Products}
+											text="Lista de Produtos"
 										/>
 									</a>
 								</Section>

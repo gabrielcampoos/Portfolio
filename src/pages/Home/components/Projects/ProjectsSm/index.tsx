@@ -6,6 +6,7 @@ import Target from '../../../../../assets/images/target.png';
 import Olatelecom from '../../../../../assets/images/ola-telecom.png';
 import { useRef } from 'react';
 import { useInView } from 'framer-motion';
+import Products from '../../../../assets/images/Products.png';
 
 interface Props {
 	children: React.ReactNode;
@@ -173,6 +174,41 @@ export const ProjectsSm = () => {
 							<CardProject
 								backgroundCard={Olatelecom}
 								text="Olá Telecom"
+							/>
+						</a>
+					</Section>
+				</Grid>
+			</Box>
+
+			<Box
+				sx={{
+					width: '100%',
+					display: 'flex',
+					justifyContent: 'center',
+					alignItems: 'center',
+					mt: 2,
+				}}
+			>
+				<Grid
+					item
+					xs={12}
+					sm={12}
+					md={4}
+					sx={{
+						width: '100%',
+						display: 'flex',
+						justifyContent: 'center',
+						alignItems: 'center',
+					}}
+				>
+					<Section>
+						<a
+							href="https://produto-two.vercel.app/"
+							style={{ textDecoration: 'none' }}
+						>
+							<CardProject
+								backgroundCard={Products}
+								text="Lista de Produtos"
 							/>
 						</a>
 					</Section>
