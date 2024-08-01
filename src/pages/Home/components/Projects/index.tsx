@@ -178,18 +178,7 @@ export const Projects = () => {
 									</a>
 								</Section>
 							</Grid>
-						</Box>
 
-						<Box
-							sx={{
-								width: '100%',
-								display: 'flex',
-								justifyContent: 'flex-start',
-								alignItems: 'center',
-								px: 10,
-								mt: 3,
-							}}
-						>
 							<Grid item xs={12} sm={12} md={4}>
 								<Section>
 									<a
