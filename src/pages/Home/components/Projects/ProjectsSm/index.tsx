@@ -6,7 +6,7 @@ import Target from '../../../../../assets/images/target.png';
 import Olatelecom from '../../../../../assets/images/ola-telecom.png';
 import { useRef } from 'react';
 import { useInView } from 'framer-motion';
-import Products from '../../../../assets/images/Products.png';
+import Products from '../../../../../assets/images/Products.png';
 
 interface Props {
 	children: React.ReactNode;
