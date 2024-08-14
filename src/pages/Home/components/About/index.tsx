@@ -172,20 +172,20 @@ export const About = () => {
 									}}
 								>
 									Desenvolvedor Full-Stack com experiência em
-									Typescript, Javascript, React.js, Node.js,
-									Redux, Express, RouterDOM, Styled
+									TypeScript, JavaScript, React.js, Node.js,
+									Redux, Express, React Router DOM, Styled
 									Components, Material UI, Bootstrap, criação
-									de APIs, consumo de APIs, Jest, Html, Css,
-									Tailwind, TypeORM, Git, Github, Prisma,
+									e consumo de APIs, Jest, HTML, CSS,
+									Tailwind, TypeORM, Git, GitHub, Prisma,
 									Figma, WordPress, Elementor, SQL,
-									PostgreSQL, Axios, ReactHooks, ReactState,
+									PostgreSQL, Axios, React Hooks, React State.
 									Apaixonado pelo desenvolvimento de
-									componentes reutilizáveis. Também possui
-									experiência em projetos gerenciados por
-									Metodologias Ágeis. Formado em Ciência da
-									Computação na FEMA(Fundação Educacional do
-									Município de Assis) e Programa Starter Web
-									Full-Stack na Growdev
+									componentes reutilizáveis e com experiência
+									em projetos gerenciados por metodologias
+									ágeis. Formado em Ciência da Computação pela
+									FEMA (Fundação Educacional do Município de
+									Assis) e no Programa Starter Web Full-Stack
+									da Growdev.
 								</Typography>
 							</Box>
 						</Grid>
