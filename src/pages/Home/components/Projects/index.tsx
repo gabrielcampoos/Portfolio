@@ -2,7 +2,6 @@ import { Box, Grid, Typography, useMediaQuery, useTheme } from '@mui/material';
 import { CardProject } from './components/Card';
 import Anyway from '../../../../assets/images/tech.png';
 import Douglas from '../../../../assets/images/douglas.png';
-import Target from '../../../../assets/images/target.png';
 import Olatelecom from '../../../../assets/images/ola-telecom.png';
 import Products from '../../../../assets/images/Products.png';
 import { useRef } from 'react';
