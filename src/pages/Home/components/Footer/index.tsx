@@ -159,7 +159,7 @@ export const Footer = () => {
 										alignSelf: 'flex-start',
 									}}
 								>
-									(18)99668-1138
+									(18)99622-2316
 								</Typography>
 							</Box>
 

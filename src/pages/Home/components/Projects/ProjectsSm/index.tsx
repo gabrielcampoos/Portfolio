@@ -1,6 +1,6 @@
 import { Box, Grid, Typography } from '@mui/material';
 import { CardProject } from '../components/Card';
-import Saniport from '../../../../../assets/images/saniport.png';
+import Anyway from '../../../../../assets/images/tech.png';
 import Douglas from '../../../../../assets/images/douglas.png';
 import Target from '../../../../../assets/images/target.png';
 import Olatelecom from '../../../../../assets/images/ola-telecom.png';
@@ -108,12 +108,12 @@ export const ProjectsSm = () => {
 				<Grid item xs={12} sm={12} md={4}>
 					<Section>
 						<a
-							href="https://saniport.com.br"
+							href="https://tech-plum.vercel.app/"
 							style={{ textDecoration: 'none' }}
 						>
 							<CardProject
-								backgroundCard={Saniport}
-								text="Saniport"
+								backgroundCard={Anyway}
+								text="Anyway"
 							/>
 						</a>
 					</Section>
@@ -127,19 +127,6 @@ export const ProjectsSm = () => {
 							<CardProject
 								backgroundCard={Douglas}
 								text="Douglas Coiffeur"
-							/>
-						</a>
-					</Section>
-				</Grid>
-				<Grid item xs={12} sm={12} md={4}>
-					<Section>
-						<a
-							href="https://agenciatarget.com.br/"
-							style={{ textDecoration: 'none' }}
-						>
-							<CardProject
-								backgroundCard={Target}
-								text="Target"
 							/>
 						</a>
 					</Section>
